@@ -1,4 +1,4 @@
-return {
+git remote -vreturn {
   {
     "nvim-telescope/telescope-ui-select.nvim",
   },
