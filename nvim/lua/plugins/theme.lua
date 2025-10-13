@@ -1,0 +1,1 @@
+/home/stormej/.config/omarchy/current/theme/neovim.lua
