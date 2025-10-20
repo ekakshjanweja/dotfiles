@@ -36,7 +36,7 @@ microsoft-edge-dev/
 nautilus/
 nextjs-nodejs/
 nnn/
-# nvi
+# nvim
 nvim.backup.20251020-184455/
 nwg-displays/
 obs-studio/
@@ -62,3 +62,19 @@ xournalpp/
 yay/
 zed/
 zsh/
+
+# Untracked files and folders
+.android/
+QtProject.conf
+aether/
+dolphinrc
+kwalletrc
+mimeapps.list
+omarchy.ttf
+pavucontrol.ini
+settings
+starship.toml
+tool_state
+user-dirs.dirs
+user-dirs.locale
+waybar/style.css.bak.*
