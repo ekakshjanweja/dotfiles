@@ -1,0 +1,64 @@
+# Folders in .config directory
+1Password/
+alacritty/
+Android Open Source Project/
+BraveSoftware/
+btop/
+chromium/
+Code/
+crossnote/
+Cursor/
+dconf/
+environment.d/
+eza/
+fastfetch/
+fcitx/
+fcitx5/
+fontconfig/
+gh/
+ghostty/
+git/
+go/
+Google/
+google-chrome/
+google-chrome-beta/
+google-chrome-unstable/
+gtk-3.0/
+# hypr/
+ibus/
+kde.org/
+kitty/
+lazydocker/
+lazygit/
+libreoffice/
+mako/
+microsoft-edge-dev/
+nautilus/
+nextjs-nodejs/
+nnn/
+# nvi
+nvim.backup.20251020-184455/
+nwg-displays/
+obs-studio/
+obsidian/
+omarchy/
+Pinta/
+pnpm/
+pulse/
+qalculate/
+retroarch/
+Signal/
+spotify/
+swayosd/
+systemd/
+Typora/
+uwsm/
+vivaldi/
+vivaldi-snapshot/
+vscode-sqltools/
+walker/
+# waybar/
+xournalpp/
+yay/
+zed/
+zsh/
