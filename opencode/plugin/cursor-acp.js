@@ -1,0 +1,1 @@
+/home/stormej/.npm-global/lib/node_modules/@rama_nigg/open-cursor/dist/plugin-entry.js
