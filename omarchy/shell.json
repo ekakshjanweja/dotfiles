@@ -23,7 +23,11 @@
           "id": "omarchy.indicators"
         },
         {
-          "id": "omarchy.tray"
+          "id": "omarchy.tray",
+          "pinned": [],
+          "hidden": [
+            "blueman"
+          ]
         },
         {
           "id": "omarchy.agents"

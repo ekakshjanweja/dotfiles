@@ -26,6 +26,9 @@ setopt hist_find_no_dups
 alias ls='ls --color'
 alias vim='nvim'
 alias c='clear'
+# codex - second account (isolated CODEX_HOME)
+alias codexw='CODEX_HOME="$HOME/.codex-w" codex'
+alias codex-w='CODEX_HOME="$HOME/.codex-w" codex'
 
 # 7. ASDF
 source ~/.config/zsh/asdf.zsh
